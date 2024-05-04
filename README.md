@@ -18,3 +18,4 @@ It's pretty easy to find 1 or 2 move scrambles, I didn't remove them.
 Download script and open with Python.  
 Prerequisite packages are itertools, pygame, sys, math and random.
 
+![cover](hemicube_complex_image.png)
